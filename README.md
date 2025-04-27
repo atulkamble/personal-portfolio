@@ -1,4 +1,3 @@
-# personal-portfolio
 # Personal Portfolio Website
 
 This is a simple personal portfolio created with HTML and CSS, hosted using GitHub Pages.
